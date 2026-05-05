@@ -251,6 +251,6 @@ Ini penting supaya bot tidak memberikan false confidence pada user, terutama ket
 
 *Built with ☕, n8n, and a lot of Telegram webhook debugging*
 
-**[🚀 Coba Sekarang di Telegram →](https://t.me/YOUR_BOT_LINK)**
+**[🚀 Coba Sekarang di Telegram →](https://t.me/TradingHolicbot)**
 
 </div>
