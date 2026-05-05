@@ -8,7 +8,7 @@
 [![Powered by Claude](https://img.shields.io/badge/AI-Claude%20Sonnet%204.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![Built with n8n](https://img.shields.io/badge/Workflow-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 [![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![Status](https://img.shields.io/badge/Status-Live%20%26%20Running-brightgreen?style=for-the-badge)](https://t.me/YOUR_BOT_LINK)
+[![Status](https://img.shields.io/badge/Status-Live%20%26%20Running-brightgreen?style=for-the-badge)](https://t.me/TradingHolicbot)
 
 <br/>
 
