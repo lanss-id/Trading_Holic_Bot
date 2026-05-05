@@ -4,7 +4,7 @@
 
 **Kirim screenshot chart kamu. Dapat analisa SMC/ICT lengkap dalam detik.**
 
-[![Live on Telegram](https://img.shields.io/badge/Telegram-Live%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_BOT_LINK)
+[![Live on Telegram](https://img.shields.io/badge/Telegram-Live%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TradingHolicbot)
 [![Powered by Claude](https://img.shields.io/badge/AI-Claude%20claude--sonnet--4-6-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![Built with n8n](https://img.shields.io/badge/Workflow-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 [![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
